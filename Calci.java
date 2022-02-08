@@ -41,7 +41,7 @@ public class Calci{
             }else if(option==5){
                 System.out.println("Modulus of "+value1+" and "+value2+" is :"+modulus(value1,value2));
             }else{
-                System.out.println("Please Select A Valid Option");
+                System.out.println("Please Select A Valid Option ");
             }
 
     }
